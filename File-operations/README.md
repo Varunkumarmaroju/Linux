@@ -40,3 +40,5 @@ Shows all .txt files available.
 10. View File with Pagination
 less aws.txt
 Navigate with arrows, exit with q.
+
+[Image](./Images/Day2-cmds.png)
