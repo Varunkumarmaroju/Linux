@@ -56,4 +56,8 @@ cal
 :-Displays current month calendar.
 (Install with: sudo apt install ncal if not available)
 
-Image[](Day1-cmds.png)
+## 📸 Screenshot
+Click the image below to view:
+
+[Image](./Images/Day1-cmds.png)
+
