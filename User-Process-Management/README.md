@@ -56,8 +56,9 @@ TOP is similar to Windows Task Manager Performance tab.
 
 📸 Screenshots
 
-🔹 User Creation & Deletion
-🔹 ps & ps aux Output
-🔹 top Command
+🔹 [User Creation & Deletion](./Images/ss1.png)
+🔹 [ps & ps aux Output](./Images/ss2.png)
+🔹 [top Command](./Images/ss3.png)
+
 
 
