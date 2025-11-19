@@ -7,27 +7,27 @@ These are essential for Cloud Engineers, DevOps, and System Admin roles.
 pwd
 Shows the working directory.
 
- 2. View Users in /etc/passwd
+## 2. View Users in /etc/passwd
 tail -n 2 /etc/passwd
 tail -n 3 /etc/passwd
 Displays the last users registered in the system.
 
-🧩 3. Create a New User
+## 3. Create a New User
 useradd vk
 sudo useradd vk
 Normal users cannot create accounts → requires sudo.
 Creates a user entry in /etc/passwd.
 
-🧩 4. Delete a User
+## 4. Delete a User
 userdel vk
 sudo userdel vk
 Removes the user account from the system.
 
-🧩 5. Check Current User's Groups
+## 5. Check Current User's Groups
 groups
 Shows all groups (sudo, docker, users, etc.).
 
-🧩 6. Process Viewing (ps)
+## 6. Process Viewing (ps)
 ps
 Shows only processes running inside the current terminal.
 
@@ -36,7 +36,7 @@ PID  TTY   TIME   CMD
 372  pts/0 00:00  bash
 559  pts/0 00:00  ps
 
-🧩 7. View All System Processes (ps aux)
+## 7. View All System Processes (ps aux)
 ps aux
 Shows every running process, similar to Windows Task Manager → Details.
 Columns include:
@@ -46,7 +46,7 @@ PID
 %MEM
 COMMAND
 
-🧩 8. Real-Time Monitoring (top)
+## 8. Real-Time Monitoring (top)
 top
 Inside TOP:
 z → enable color
@@ -59,4 +59,5 @@ TOP is similar to Windows Task Manager Performance tab.
 🔹 User Creation & Deletion
 🔹 ps & ps aux Output
 🔹 top Command
+
 
